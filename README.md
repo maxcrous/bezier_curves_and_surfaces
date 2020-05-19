@@ -7,5 +7,9 @@ Subjects covered:
 * Bézier surface explicit definition
 * Uniform sampling of a Bézier curve
 * Rotation by rotating control points
+
+### Surface
 ![surface](surface.png)
+
+### Curve
 ![curve](curve.png)
